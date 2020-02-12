@@ -1,0 +1,13 @@
+ID,Age,Gender,Platform,time_watched,Grade,GPA
+1,17,Male,Netflix,2,12th,3
+2,18,Female,Youtube,4,12th,3
+3,17,Male,Youtube,5,12th,3
+4,19,Male,Youtube,5,12th,3
+5,20,Male,Youtube,6,20th,4
+6,18,Male,Youtube,10,12th,2.9
+7,17,Female,Pinterest,12,12th,3
+8,18,Male,Youtube,12,12th,3.8
+9,17,Female,Youtube,10,12th,3.7
+10,18,Unknown,Youtube,2.5,12th,3.7
+11,18,Male,Youtube,3,12th,3.7
+12,18,Male,Youtube,12,12th,3
